@@ -10,3 +10,6 @@
 [submodule "themes/firefox"]
 	path = themes/firefox
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-firefox
+[submodule "themes/telegram"]
+	path = themes/telegram
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-telegram
