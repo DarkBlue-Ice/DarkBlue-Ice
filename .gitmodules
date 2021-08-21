@@ -1,3 +1,6 @@
 [submodule "themes/vscode"]
 	path = themes/vscode
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-vscode
+[submodule "themes/atom"]
+	path = themes/atom
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-atom
