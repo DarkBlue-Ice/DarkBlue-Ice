@@ -21,7 +21,7 @@
 
 ---
 
-## How to submitt a theme
+## How to submit a theme
 
 ### If you would like to volunteer and submit a theme to add to the DarkBlue Ice collection, you can create a feature request in the issues section on github. We will evaluate it and decide whether the theme will be added or not. We will give you the credits and you will help maintain this project.
 
