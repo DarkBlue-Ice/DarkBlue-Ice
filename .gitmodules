@@ -16,3 +16,6 @@
 [submodule "themes/betterdiscord"]
 	path = themes/betterdiscord
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord
+[submodule "themes/mailspring"]
+	path = themes/mailspring
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring
