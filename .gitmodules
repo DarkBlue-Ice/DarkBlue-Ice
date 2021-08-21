@@ -7,3 +7,6 @@
 [submodule "themes/vim"]
 	path = themes/vim
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-vim
+[submodule "themes/firefox"]
+	path = themes/firefox
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-firefox
