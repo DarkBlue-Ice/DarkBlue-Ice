@@ -13,3 +13,6 @@
 [submodule "themes/telegram"]
 	path = themes/telegram
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-telegram
+[submodule "themes/betterdiscord"]
+	path = themes/betterdiscord
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord
