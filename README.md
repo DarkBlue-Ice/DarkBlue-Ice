@@ -14,7 +14,7 @@
 * ### [DarkBlue Ice for vscode](https://github.com/Dedsd/DarkBlue-Ice-for-vscode)
 * ### [DarkBlue Ice for atom](https://github.com/Dedsd/DarkBlue-Ice-for-atom)
 * ### [DarkBlue Ice for vim](https://github.com/Dedsd/DarkBlue-Ice-for-vim)
-* ### [DarkBlue Ice firefox](https://github.com/Dedsd/DarkBlue-Ice-for-firefox)
+* ### [DarkBlue Ice for firefox](https://github.com/Dedsd/DarkBlue-Ice-for-firefox)
 * ### [DarkBlue Ice for telegram](https://github.com/Dedsd/DarkBlue-Ice-for-telegram)
 * ### [DarkBlue Ice for betterdiscord](https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord)
 * ### [DarkBlue Ice for mailspring](https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring)
