@@ -16,7 +16,7 @@
 * ### [DarkBlue Ice for vim](https://github.com/Dedsd/DarkBlue-Ice-for-vim)
 * ### [DarkBlue Ice for firefox](https://github.com/Dedsd/DarkBlue-Ice-for-firefox)
 * ### [DarkBlue Ice for telegram](https://github.com/Dedsd/DarkBlue-Ice-for-telegram)
-* ### [DarkBlue Ice for betterdiscord](https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord)
+* ### [DarkBlue Ice for customdiscord](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord)
 * ### [DarkBlue Ice for mailspring](https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring)
 
 ---
