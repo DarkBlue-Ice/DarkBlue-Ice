@@ -22,3 +22,6 @@
 [submodule "themes/customdiscord"]
 	path = themes/customdiscord
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord.git
+[submodule "themes/ulauncher"]
+	path = themes/ulauncher
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-ulauncher

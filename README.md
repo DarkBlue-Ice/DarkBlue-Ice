@@ -18,6 +18,7 @@
 * ### [DarkBlue Ice for telegram](https://github.com/Dedsd/DarkBlue-Ice-for-telegram)
 * ### [DarkBlue Ice for customdiscord](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord)
 * ### [DarkBlue Ice for mailspring](https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring)
+* ### [DarkBlue Ice for ulauncher](https://github.com/Dedsd/DarkBlue-Ice-for-ulauncher)
 
 ---
 
