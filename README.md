@@ -3,7 +3,7 @@
 <img src="images/darkblueiceicon.png" width="200"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Downloads-%2B215-brightgreen"/> <img src="https://img.shields.io/badge/License-MIT-brightgreen"/> <img src="https://img.shields.io/badge/Version-v1.4-brightgreen"/> <img src="https://img.shields.io/badge/Themes-7-brightgreen"/>
+<img src="https://img.shields.io/badge/Downloads-%2B215-brightgreen"/> <img src="https://img.shields.io/badge/License-MIT-brightgreen"/> <img src="https://img.shields.io/badge/Version-v1.4-brightgreen"/> <img src="https://img.shields.io/badge/Themes-8-success"/>
 </p>
 <h3 align="center"> A Beautiful theme for many apps with Dark blue and ice colors distributed in a harmonic way. </h3>
 
