@@ -3,7 +3,7 @@
 <img src="images/darkblueiceicon.png" width="200"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Downloads-243%2B-success"/> <img src="https://img.shields.io/badge/License-MIT-brightgreen"/> <img src="https://img.shields.io/badge/Version-v1.4-brightgreen"/> <img src="https://img.shields.io/badge/Themes-8-success"/>
+<img src="https://img.shields.io/badge/Downloads-243%2B-success"/> <img src="https://img.shields.io/badge/License-MIT-brightgreen"/> <img src="https://img.shields.io/badge/Version-v1.4-brightgreen"/> <img src="https://img.shields.io/badge/Themes-9-success"/>
 </p>
 <h3 align="center"> A Beautiful theme for many apps with Dark blue and ice colors distributed in a harmonic way. </h3>
 
@@ -18,6 +18,7 @@
 * ### [DarkBlue Ice for telegram](https://github.com/Dedsd/DarkBlue-Ice-for-telegram)
 * ### [DarkBlue Ice for customdiscord](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord)
 * ### [DarkBlue Ice for mailspring](https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring)
+* ### [DarkBlue Ice for gnome terminal](https://github.com/Dedsd/DarkBlue-Ice-for-gnome-terminal)
 * ### [DarkBlue Ice for ulauncher](https://github.com/Dedsd/DarkBlue-Ice-for-ulauncher)
 
 ---
