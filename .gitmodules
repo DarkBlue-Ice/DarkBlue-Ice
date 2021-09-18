@@ -28,3 +28,6 @@
 [submodule "themes/gnome-terminal"]
 	path = themes/gnome-terminal
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-gnome-terminal
+[submodule "themes/termux"]
+	path = themes/termux
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-termux
