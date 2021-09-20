@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Downloads-243%2B-success"/> <img src="https://img.shields.io/badge/License-MIT-brightgreen"/> <img src="https://img.shields.io/badge/Version-v1.4-brightgreen"/> <img src="https://img.shields.io/badge/Themes-10-success"/>
 </p>
-<h3 align="center"> A Beautiful theme for many apps with Dark blue and ice colors distributed in a harmonic way. </h3>
+<h3 align="center"> A Beautiful theme for many apps with dark blue and ice colors distributed in a harmonic way. </h3>
 
 ---
 
