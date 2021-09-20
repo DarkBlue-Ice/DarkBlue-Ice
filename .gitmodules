@@ -31,3 +31,6 @@
 [submodule "themes/termux"]
 	path = themes/termux
 	url = https://github.com/Dedsd/DarkBlue-Ice-for-termux
+[submodule "themes/duckduckgo"]
+	path = themes/duckduckgo
+	url = https://github.com/Dedsd/DarkBlue-Ice-for-duckduckgo
